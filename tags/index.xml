@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - 标签 - 威品鉴</title>
-        <link>https://millionbenjamin.github.io/tags/</link>
+        <link>millionbenjamin.github.io/tags/</link>
         <description>Tags - 标签 - 威品鉴</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 11 Nov 2022 11:58:23 &#43;0800</lastBuildDate><atom:link href="https://millionbenjamin.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 11 Nov 2022 11:58:23 &#43;0800</lastBuildDate><atom:link href="millionbenjamin.github.io/tags/" rel="self" type="application/rss+xml" /><item>
     <title>Whisky</title>
-    <link>https://millionbenjamin.github.io/tags/whisky/</link>
+    <link>millionbenjamin.github.io/tags/whisky/</link>
     <pubDate>Fri, 11 Nov 2022 11:58:23 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://millionbenjamin.github.io/tags/whisky/</guid>
+    <guid>millionbenjamin.github.io/tags/whisky/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
