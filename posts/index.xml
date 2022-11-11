@@ -1,22 +1,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>所有文章 - 威品鉴</title>
-        <link>http://millionbenjamin.github.io/posts/</link>
+        <link>https://millionbenjamin.github.io/posts/</link>
         <description>所有文章 | 威品鉴</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 11 Nov 2022 11:58:23 &#43;0800</lastBuildDate><atom:link href="http://millionbenjamin.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 11 Nov 2022 11:58:23 &#43;0800</lastBuildDate><atom:link href="https://millionbenjamin.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Test</title>
-    <link>http://millionbenjamin.github.io/posts/test/</link>
+    <link>https://millionbenjamin.github.io/posts/test/</link>
     <pubDate>Fri, 11 Nov 2022 11:58:23 &#43;0800</pubDate>
     <author>Leo</author>
-    <guid>http://millionbenjamin.github.io/posts/test/</guid>
+    <guid>https://millionbenjamin.github.io/posts/test/</guid>
     <description><![CDATA[Test test test]]></description>
 </item>
 <item>
     <title>Test</title>
-    <link>http://millionbenjamin.github.io/posts/whisky/test/</link>
+    <link>https://millionbenjamin.github.io/posts/whisky/test/</link>
     <pubDate>Fri, 11 Nov 2022 11:58:23 &#43;0800</pubDate>
     <author>Leo</author>
-    <guid>http://millionbenjamin.github.io/posts/whisky/test/</guid>
+    <guid>https://millionbenjamin.github.io/posts/whisky/test/</guid>
     <description><![CDATA[Test test test]]></description>
 </item>
 </channel>
